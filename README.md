@@ -1,8 +1,10 @@
-#Hi there, I am Zhake.
+# Hi there, I am Zhake.
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=GREENEYE360K&show_icons=true&theme=radical">
+<div><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=GREENEYE360K&show_icons=true&theme=radical"></div>
 
-<img align="left" width="47%" height="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GREENEYE360K&layout=compact">
+<div><img align="right" width="47%" height="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GREENEYE360K&layout=compact"></div>
+
+
 
 
 
