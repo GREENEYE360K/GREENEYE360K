@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm WOC <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHV1MmppZ25qeGhnYWwycXQ4NzJndXlsN2pxYjhvOWduaW1xYTVuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="35px" /></h1>
+<h1 align="center">Hi there, I'm WOC 
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHV1MmppZ25qeGhnYWwycXQ4NzJndXlsN2pxYjhvOWduaW1xYTVuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="120px" />
+</h1>
 <h3 align="center">A passionate developer building cool things.</h3>
 
 ---
